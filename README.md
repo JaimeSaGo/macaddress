@@ -21,4 +21,6 @@ Before to run this script, you need export the KEY_API_MA=${your_API_KEY} on you
 
 ### To Execute:
 
-./
+./macaddress_lookup.py "MACADDRESS_DEVICE"
+
+
