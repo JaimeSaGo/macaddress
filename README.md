@@ -17,7 +17,7 @@ To start to uses this, you need get your API key from https://macaddress.io/sign
 
 ### How use this?
 
-Before to run this script, you need export the KEY_API_MA=${your_API_KEY} on your environment Linux
+Before to run this script, you need export the KEY_API_MA=${YOUR_API_KEY} on your environment Linux
 
 ### To Execute:
 
